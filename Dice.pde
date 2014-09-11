@@ -29,7 +29,6 @@ void draw()
     dieY=0;
   }
   fill(0);
-  println(totalDots);
   text("Total equals " + totalDots, 400, 765);
 }
 void mousePressed()
